@@ -1,4 +1,4 @@
-local ArioUI = loadstring(game:HttpGet("YOUR_RAW_GITHUB_URL/src/ArioUI.lua"))()
+local ArioUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/ariobest/ario-lib/refs/heads/main/src/ArioUI.lua"))()
 
 local Window = ArioUI:CreateWindow({
     Title = "ArioUI Showcase",
